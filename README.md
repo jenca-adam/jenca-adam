@@ -1,6 +1,7 @@
 I code (i guess)
 <br>
 ![my bad stats](https://github-readme-stats.vercel.app/api?username=jenca-adam&show_icons=true&theme=radical)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenca-adam&layout=compact&langs_count=8&exclude_repo=awiki)
 <!--
 **jenca-adam/jenca-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
